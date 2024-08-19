@@ -1,7 +1,9 @@
 # CCG
 
 python3 -m pip install --upgrade pip
+
 python3 -m pip install --upgrade Pillow
+
 нужна версия python с поддержкой tkinter
 
 пример игры с минимальным набором механик карт
